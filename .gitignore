@@ -43,6 +43,9 @@ datasets/
 *.webp
 *.bmp
 
+!assets/
+!assets/*
+
 # (optional: keep small sample images)
 
 !images/sample/
